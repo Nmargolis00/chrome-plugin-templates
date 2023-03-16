@@ -1,0 +1,1 @@
+//this page is for handles and listening for browser events. This will be useful for starting the plug in to begin prompting the templates
